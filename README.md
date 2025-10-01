@@ -1,7 +1,8 @@
 # Car Price Prediction
 ## Setup
 Create and activate environment:
-```bash
-conda create -n carprice python=3.8
+
+onda create -n carprice python=3.8
 conda activate carprice
+
 
