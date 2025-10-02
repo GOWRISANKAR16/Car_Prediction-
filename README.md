@@ -21,7 +21,7 @@ python app.py
 Open the local URL in your browser, enter car details in the HTML form, and get the predicted price.
 
 ## Dataset
-[Dataset](C:\Users\gowri\OneDrive\Documents\Desktop\BA\Car-Price-Prediction-main\src)
+[Dataset](https://github.com/GOWRISANKAR16/Car_Prediction-/tree/main/Car-Price-Prediction-main/src/dataset)
 
 ## Output
 <img width="714" height="547" alt="Screenshot 2025-10-02 045743" src="https://github.com/user-attachments/assets/ece2a1af-615d-49f3-9fc4-183f3832cc7e" />
